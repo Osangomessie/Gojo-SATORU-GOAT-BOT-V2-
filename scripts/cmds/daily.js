@@ -46,8 +46,8 @@ module.exports = {
 			friday: "Friday",
 			saturday: "Saturday",
 			sunday: "Sunday",
-			alreadyReceived: "❌T'as déjà eu ta récompenses...🌺",
-			received: "🎉Bravo...!!!🌺 T'as reçu %1€ et %2 exp...🎉🎁"
+			alreadyReceived: "𝐭'𝐚𝐬 𝐞𝐮 𝐭𝐚 𝐩𝐚𝐫𝐭 𝐦𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐭 𝐝𝐞𝐠𝐚𝐠𝐞",
+			received: "𝐽𝐸 𝑇'𝑜𝑓𝑓𝑟𝑒 𝟏𝟎𝟎$ 𝐴𝑈𝐽𝑂𝑈𝑅𝐷'𝐻𝑈𝐼"
 		}
 	},
 
