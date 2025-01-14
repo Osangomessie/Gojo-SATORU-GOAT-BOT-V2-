@@ -93,7 +93,7 @@ handlerEvents.userBanned=You have been banned from using the bot\n» Reason: %1\
 handlerEvents.threadBanned=This group has been banned from using the bot\n» Reason: %1\n» Time: %2\n» Thread ID: %3
 handlerEvents.onlyAdminBox=This group is currently enabled only group administrators can use the bot
 handlerEvents.commandNotFound=| 𝐂𝐞𝐭𝐭𝐞 𝐜𝐦𝐝 𝐧'𝐞𝐱𝐢𝐬𝐭𝐞 𝐩𝐚𝐬 𝐜𝐨𝐧𝐬𝐮𝐥𝐭𝐞 𝐥𝐚 𝐜𝐦𝐝 €help\n_________________
-handlerEvents.commandNotFound2=𝐦𝐨𝐧 𝐜𝐫𝐞𝐚𝐭𝐞𝐮𝐫\n_________________\nmessie OSANGO \n___________________\n𝘓𝘐𝘕𝘒'𝘚 Facebook\n___________________\n☆《 https://www.facebook.com/profile.php?id=100075173081158 》☆\n_________________\n❥❦𝐈𝐓𝐀𝐂𝐇𝐈๖ۣ•҉★ 
+handlerEvents.commandNotFound2=┍──━────━───━────━──┑\n𝑂𝑈𝐼 𝐶'𝑒𝑠𝑡 𝑏𝑖𝑒𝑛 ç𝑎 𝑚𝑜𝑛 𝑝𝑟𝑒𝑓𝑖𝑥\n𝐴𝐵𝑂𝑁𝑁𝐸𝑍 𝑉𝑂𝑈𝑆 À 𝐿𝐴 𝑃𝐴𝐺𝐸 𝐹𝐴𝐶𝐸𝐵𝑂𝑂𝐾 𝐷𝐸 𝑀𝑂𝑁 𝐴𝐷𝑀𝐼𝑁𝐼𝑆𝑇𝑅𝐴𝑇𝐸𝑈𝑅\n┕──━──━────━──━────━──┙
 handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
 handlerEvents.onlyAdmin=❌ | Only group administrators can use the command "%1" \n__________________ \n ❥❦𝐈𝐓𝐂𝐇𝐈๖ۣ•҉★
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
